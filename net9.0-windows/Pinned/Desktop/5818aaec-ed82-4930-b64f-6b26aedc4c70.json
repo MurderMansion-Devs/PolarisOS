@@ -1,0 +1,14 @@
+{
+  "UserId": "5818aaec-ed82-4930-b64f-6b26aedc4c70",
+  "Icons": [
+    {
+      "Name": "Explorer",
+      "Path": "C:\\Windows\\explorer.exe",
+      "IconPath": null,
+      "Position": {
+        "X": 0,
+        "Y": 0
+      }
+    }
+  ]
+}
